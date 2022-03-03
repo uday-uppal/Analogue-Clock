@@ -1,0 +1,44 @@
+.im{
+   border: 0px solid;
+   border-color: rgb(0, 0, 0);
+   border-radius: 195px;
+}
+img{
+    width: 25vw;
+
+}
+body{
+    background-color: aqua;
+}
+.i{
+    
+    display: flex;
+    justify-content: center;
+}
+.hr{
+   top:8.5vw;
+   position: absolute;
+   height: 60px;
+   width: 10px; 
+   /* border-radius: 10px; */
+   background-color: black;
+   transform-origin: bottom;
+}
+.min{
+    position: absolute;
+    top:7.5vw;
+    transform-origin: bottom;
+    height: 70px;
+    width: 10px; 
+    /* border-radius: 10px; */
+    background-color: rgb(0, 153, 255);
+ }
+ .sec{
+    position: absolute;
+    top:5.1vw;
+    transform-origin: bottom;
+    height: 100px;
+    width: 10px; 
+    /* border-radius: 10px; */
+    background-color: rgb(16, 238, 145);
+ }
